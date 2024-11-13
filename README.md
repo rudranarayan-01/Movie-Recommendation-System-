@@ -17,3 +17,6 @@ Kagel Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
   `` streamlit run app.py  ``
   
 
+Give a star and add some featues✨
+
+Author: https://github.com/rudranarayan-01

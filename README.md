@@ -1,5 +1,5 @@
 # Movie Recommendation System
-### Content Based Movie Recommendation using cosine simarity 
+### Content Based Movie Recommendation using cosine similarity 
 
 It prompts the user to enter their favorite movie name, finds the closest match in the dataset, calculates similarity scores between the user’s favorite movie and all other movies, sorts the movies based on their similarity scores, and finally prints the top recommended movies for the user.
 
